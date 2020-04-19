@@ -64,7 +64,6 @@ function App() {
       }
     >
       <main>
-        <h1 className="location">Weather App</h1>
         <div className="searchBox">
           <input
             type="text"
